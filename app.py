@@ -11,7 +11,7 @@ feature_names = ['Mean Radius', 'Mean Texture', 'Mean Perimeter', 'Mean Area', '
                  'Worst Fractal Dimension']
 
 def main():
-    st.title('Breast Cancer Prediction App')
+    st.title('Breast Cancer Prediction App by Dr. Lee')
     st.write("Enter the values for the features to get a prediction.")
 
     # Load sample data to pre-load default values
